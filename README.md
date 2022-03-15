@@ -1,2 +1,2 @@
 # BMI Calculator
-This repository for bmi calculating.
+This repository for BMI calculating.
